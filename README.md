@@ -1,5 +1,5 @@
 1. Open the directory ./skatescribe in PyCharm CE 
 2. Install any missing library modules
-3. Run the code
+3. Run the code inside index.py
 
 Works on PyCharm 2019.2 (Community Edition)
